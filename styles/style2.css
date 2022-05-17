@@ -1,0 +1,125 @@
+  body {
+	text-align: left;
+	color: #000000;
+	background-color: rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35px;
+	text-rendering: optimizeLegibility !important;
+	-moz-osx-font-smoothing: grayscale !important;
+	-webkit-text-size-adjust: none;
+    }
+
+
+
+#contenedor {
+    width: 400px !important;
+    margin: 0 auto;
+	margin-top: 0 auto;
+    margin-left: 20;
+}
+
+
+
+h1 {
+	color: 000000;    
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	font-size: 30px;
+	font-style: normal;
+	text-transform: none;
+	color: #000;
+    }
+	
+
+	
+h2 {
+	text-align: left;
+    color: #000000;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    -webkit-text-size-adjust: none;
+    }
+	
+	
+	
+h4 {
+	text-align: left;
+    color: #1c1c1c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    -webkit-text-size-adjust: none;
+    margin-left: 15px;
+    }
+
+
+
+.primeraletra {
+	font-size: 60px;
+	color: #09F;
+	font-weight: bold;
+    }
+
+
+
+article{
+        float: left;
+
+    }
+
+
+#aside {
+    width: 250px !important;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+	margin-top: 0 auto;  
+    margin-top: 20px;
+    margin-left: 20px;
+    float: right;
+    align-items: center;
+    }
+
+
+.textoform {
+        width : 150px;
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        align-items: center;
+      }
+
+.boton{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:80px;
+        height:19px;
+       }
+
+
+       img {
+        max-width: 100%;
+        max-height: 100%;
+       }
+       .cat {
+        height: 215px;
+        width: 400px;
+       }
